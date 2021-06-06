@@ -1,9 +1,11 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import AppNavbar from './components/AppNavbar';
 
 function App() {
   return (
     <div className="App">
-      <h2>Hello!!</h2>
+      <AppNavbar />
     </div>
   );
 }
