@@ -38,7 +38,6 @@ class AppNavbar extends Component {
                                     Github
                                     </NavLink>
                                 </NavItem>
-                                
                             </Nav>
                         </Collapse>
                     </Container>
