@@ -15,7 +15,7 @@ router.get('/',(req,res)=>{
 })
 
 //@route POST api/items
-//@desc Create a Post
+//@desc Create a Item
 //@access public
 
 router.post('/',(req,res)=>{
